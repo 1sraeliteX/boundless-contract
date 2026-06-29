@@ -38,7 +38,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4"
                 },
                 {
-                  "bytes": "56155d381958b9308e5d389dfa3d7b8776c2cae900b0bb6c2863cf525a99659a"
+                  "bytes": "a950b05e58ce77465808039a33e5a4314fb1417fc2b4f21ff0b2219d691c06a6"
                 }
               ]
             }
@@ -102,7 +102,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "56155d381958b9308e5d389dfa3d7b8776c2cae900b0bb6c2863cf525a99659a"
+                  "bytes": "a950b05e58ce77465808039a33e5a4314fb1417fc2b4f21ff0b2219d691c06a6"
                 }
               ]
             },
@@ -122,7 +122,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "56155d381958b9308e5d389dfa3d7b8776c2cae900b0bb6c2863cf525a99659a"
+                      "bytes": "a950b05e58ce77465808039a33e5a4314fb1417fc2b4f21ff0b2219d691c06a6"
                     }
                   ]
                 },

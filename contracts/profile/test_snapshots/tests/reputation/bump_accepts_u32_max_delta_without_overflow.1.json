@@ -38,7 +38,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4"
                 },
                 {
-                  "bytes": "7dcdeaa4fb1f868055f30e4713dbaa3a620bb8f2bc18a439c791c93898989379"
+                  "bytes": "5998caa4c6eb81cfc76597f03804df936ec41db9bd3dd63264fe43dc4f5a62b8"
                 }
               ]
             }
@@ -66,7 +66,7 @@
                   "symbol": "win"
                 },
                 {
-                  "bytes": "6180361434e35f82af55fb9aff16fd9ec2aaee4e128c1f2034e82c2589401433"
+                  "bytes": "e27fe5eac114630a4a3a0728a59e24387149fac42bcf6c9ca67b469b8412eea3"
                 }
               ]
             }
@@ -130,7 +130,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "6180361434e35f82af55fb9aff16fd9ec2aaee4e128c1f2034e82c2589401433"
+                  "bytes": "5998caa4c6eb81cfc76597f03804df936ec41db9bd3dd63264fe43dc4f5a62b8"
                 }
               ]
             },
@@ -150,7 +150,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "6180361434e35f82af55fb9aff16fd9ec2aaee4e128c1f2034e82c2589401433"
+                      "bytes": "5998caa4c6eb81cfc76597f03804df936ec41db9bd3dd63264fe43dc4f5a62b8"
                     }
                   ]
                 },
@@ -175,7 +175,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "7dcdeaa4fb1f868055f30e4713dbaa3a620bb8f2bc18a439c791c93898989379"
+                  "bytes": "e27fe5eac114630a4a3a0728a59e24387149fac42bcf6c9ca67b469b8412eea3"
                 }
               ]
             },
@@ -195,7 +195,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "7dcdeaa4fb1f868055f30e4713dbaa3a620bb8f2bc18a439c791c93898989379"
+                      "bytes": "e27fe5eac114630a4a3a0728a59e24387149fac42bcf6c9ca67b469b8412eea3"
                     }
                   ]
                 },

@@ -38,7 +38,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4"
                 },
                 {
-                  "bytes": "5c8c213f7fa8bada31bb3b4595f0581abcf9cc36741be969388e40544136a837"
+                  "bytes": "1f48dd1ca2fa80a016ec7f3ee64d88bdb579c76587680fb0223462e33cee8836"
                 }
               ]
             }
@@ -66,7 +66,7 @@
                   "symbol": "win"
                 },
                 {
-                  "bytes": "9b0388888846a8d434f35658712438052d4b88367409a503c9d0b2bee552d916"
+                  "bytes": "03a5d1f18148098e2ef98eb0279e47825bf67f67f13e4f07ef7de32805e7f99e"
                 }
               ]
             }
@@ -131,7 +131,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "5c8c213f7fa8bada31bb3b4595f0581abcf9cc36741be969388e40544136a837"
+                  "bytes": "03a5d1f18148098e2ef98eb0279e47825bf67f67f13e4f07ef7de32805e7f99e"
                 }
               ]
             },
@@ -151,7 +151,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "5c8c213f7fa8bada31bb3b4595f0581abcf9cc36741be969388e40544136a837"
+                      "bytes": "03a5d1f18148098e2ef98eb0279e47825bf67f67f13e4f07ef7de32805e7f99e"
                     }
                   ]
                 },
@@ -176,7 +176,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "9b0388888846a8d434f35658712438052d4b88367409a503c9d0b2bee552d916"
+                  "bytes": "1f48dd1ca2fa80a016ec7f3ee64d88bdb579c76587680fb0223462e33cee8836"
                 }
               ]
             },
@@ -196,7 +196,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "9b0388888846a8d434f35658712438052d4b88367409a503c9d0b2bee552d916"
+                      "bytes": "1f48dd1ca2fa80a016ec7f3ee64d88bdb579c76587680fb0223462e33cee8836"
                     }
                   ]
                 },

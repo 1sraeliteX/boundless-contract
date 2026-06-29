@@ -26,7 +26,7 @@
                   "string": "manual grant"
                 },
                 {
-                  "bytes": "7b213a8133c62e45b5282cb0c4b47dc503ce7ba7a1c997f7d3a75940d953c1fb"
+                  "bytes": "e80fe994c8efe0f57cc55e3723c844a71754f261d4a2acc49dc9b8268d83c81e"
                 }
               ]
             }
@@ -90,7 +90,7 @@
                   "symbol": "OpSeen"
                 },
                 {
-                  "bytes": "7b213a8133c62e45b5282cb0c4b47dc503ce7ba7a1c997f7d3a75940d953c1fb"
+                  "bytes": "e80fe994c8efe0f57cc55e3723c844a71754f261d4a2acc49dc9b8268d83c81e"
                 }
               ]
             },
@@ -110,7 +110,7 @@
                       "symbol": "OpSeen"
                     },
                     {
-                      "bytes": "7b213a8133c62e45b5282cb0c4b47dc503ce7ba7a1c997f7d3a75940d953c1fb"
+                      "bytes": "e80fe994c8efe0f57cc55e3723c844a71754f261d4a2acc49dc9b8268d83c81e"
                     }
                   ]
                 },
